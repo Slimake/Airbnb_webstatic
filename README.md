@@ -2,7 +2,7 @@
 ## Description
 >This is the webstatic part of the Airbnb Clone: developed using HTML and CSS. The styles directory contain all the stying, the images directory contains images used for the website. 
 
-![Airbnb Homepage](../Airbnb_webstatic/images/Airbnb_web.png)
+![Airbnb Homepage](https://github.com/Slimake/Airbnb_webstatic/blob/main/images/Airbnb_web.png)
 
 ### Environment
 * Languages: HTML, CSS
